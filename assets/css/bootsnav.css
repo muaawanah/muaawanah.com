@@ -1767,15 +1767,15 @@ nav.navbar.bootsnav {
   }
 
   .attr-nav > ul > li {
-	  padding: 17px 0 !important;
-	}
-	nav.navbar.bootsnav.sticked .attr-nav ul li {
-	  padding: 17px 0 !important;
-	}
+    padding: 17px 0 !important;
+  }
+  nav.navbar.bootsnav.sticked .attr-nav ul li {
+    padding: 17px 0 !important;
+  }
 
   .attr-nav > ul > li > a {
-	  padding: 8px 25px !important;
-	}
+    padding: 8px 25px !important;
+  }
 
   .navbar.bootsnav.no-background .attr-nav.inc-border a {
     background: #4ac4f3 !important;
