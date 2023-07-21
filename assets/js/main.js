@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Softing - Software Landing Page
+    Template Name   : Muaawanah - Software Landing Page
     Version         : 1.0
     
 * ================================================================= */
