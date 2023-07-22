@@ -56,8 +56,8 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-family: 'Noto Sans Bengali', sans-serif;
+  font-size: 16px;
   font-weight: 400;
   line-height: 26px;
   overflow-x: hidden;
@@ -71,8 +71,8 @@ html, body, .wrapper {
 h1, h2, h3, h4, h5, h6 {
   color: #232323;
   font-weight: normal;
-  line-height: 1.2;
-  font-family: 'Poppins', sans-serif;
+  line-height: 1.3;
+  font-family: 'Noto Sans Bengali', sans-serif;
   letter-spacing: 0;
   margin: 0;
 }
@@ -176,7 +176,7 @@ a {
   -ms-transition: all 0.35s ease-in-out;
   -o-transition: all 0.35s ease-in-out;
   text-decoration: none;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Noto Sans Bengali', sans-serif;
 }
 
 b, strong {
@@ -362,10 +362,10 @@ input {
 
 .btn {
   display: inline-block;
-  font-family: "Poppins",sans-serif;
-  font-size: 14px;
+  font-family: "Noto Sans Bengali",sans-serif;
+  font-size: 18px;
   font-weight: 600;
-  line-height: 25px;
+  line-height: 20px;
   text-transform: uppercase;
   -webkit-transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
@@ -1104,7 +1104,7 @@ body,
 }
 
 .banner-area.small-text .content h1 {
-  font-size: 50px;
+  font-size: 45px;
   font-weight: 600;
   margin-bottom: 25px;
   text-transform: capitalize;
@@ -1579,7 +1579,7 @@ body,
   display: flex;
   text-align: left;
   margin-top: 40px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Noto Sans Bengali', sans-serif;
 }
 
 .banner-area ul li {
@@ -1659,7 +1659,7 @@ body,
 .about-area .bottom-info li {
   color: #666666;
   display: block;
-  font-family: "Poppins",sans-serif;
+  font-family: "Noto Sans Bengali",sans-serif;
   font-weight: 400;
   letter-spacing: 1px;
   margin-bottom: 15px;
@@ -1964,7 +1964,7 @@ body,
 .works-process-items .item .info span {
   color: #437eeb;
   display: block;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Noto Sans Bengali', sans-serif;
   margin-bottom: 10px;
 }
 
@@ -2111,7 +2111,7 @@ body,
     margin-bottom: 20px;
     font-weight: 600;
     color: #232323;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans Bengali', sans-serif;
 }
 
 .choseus-items .info ul li::after {
@@ -2130,7 +2130,7 @@ body,
 }
 
 .choseus-items .fun-fact {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans Bengali', sans-serif;
     margin-top: 30px;
 }
 
@@ -2535,7 +2535,7 @@ body,
 }
 
 .pricing-item .pricing-header span {
-  font-family: "Poppins",sans-serif;
+  font-family: "Noto Sans Bengali",sans-serif;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -2552,7 +2552,7 @@ body,
 }
 
 .pricing-item li {
-  font-family: "Poppins",sans-serif;
+  font-family: "Noto Sans Bengali",sans-serif;
   line-height: 40px;
   padding: 0 30px;
   text-transform: capitalize;
@@ -2670,7 +2670,7 @@ body,
 
 .team-area .info span {
   color: #4ac4f3;
-  font-family: "Poppins",sans-serif;
+  font-family: "Noto Sans Bengali",sans-serif;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -2980,7 +2980,7 @@ body,
   border-style: none none none solid;
   border-width: medium medium medium 3px;
   color: #232323;
-  font-family: "Poppins",sans-serif;
+  font-family: "Noto Sans Bengali",sans-serif;
   line-height: 30px;
   margin: 30px 0;
   padding: 0 0 0 20px;
@@ -3276,7 +3276,7 @@ body,
 
 .testimonials-area .testimonial-items .item span.quote::after {
   content: ",,";
-  font-family: "Poppins",sans-serif;
+  font-family: "Noto Sans Bengali",sans-serif;
   font-size: 50px;
   height: 100%;
   left: 0;
@@ -3298,7 +3298,7 @@ body,
 
 .testimonial-items span {
   color: #4ac4f3;
-  font-family: "Poppins",sans-serif;
+  font-family: "Noto Sans Bengali",sans-serif;
   font-weight: 600;
   text-transform: capitalize;
 }
@@ -3516,7 +3516,7 @@ body,
   box-shadow: inherit;
   color: #ffffff;
   display: inline-block;
-  font-family: "Poppins",sans-serif;
+  font-family: "Noto Sans Bengali",sans-serif;
   font-weight: 600;
   margin-top: 15px;
   padding: 10px 35px;
@@ -3751,7 +3751,7 @@ body,
     border-radius: 5px;
     box-shadow: inherit;
     color: #ffffff;
-    font-family: "Poppins",sans-serif;
+    font-family: "Noto Sans Bengali",sans-serif;
     font-weight: 600;
     padding: 8px;
     text-transform: uppercase;
